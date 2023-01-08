@@ -1,5 +1,4 @@
 # 👩🏻‍💻 Learning JavaScript 
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
 
 <br>
 
